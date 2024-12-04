@@ -26,7 +26,7 @@ All papers found can be seen on the tab Papers_raw in policing_papers.xlsx.
 
 From this original collection of papers we dropped any papers that were not relevant typically because they were not actually studies of police. From this we created our final sample of papers. 
 
-We then coded papers by their modeling techniques, findings, and whether or not they were academic copaganda.
+We then coded papers by their modeling techniques, findings, and whether or not they were academic copaganda. All papers without a DOI were considered non-peer reviewed.
 
 This list of papers can be seen on the tab Papers_cleaned in policing_papers.xlsx
 
